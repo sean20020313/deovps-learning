@@ -1,4 +1,4 @@
-# 🚀 Complete DevOps Roadmap
+# Complete DevOps Roadmap
 
 > From Beginner → DevOps Engineer
 
